@@ -1,11 +1,11 @@
 const help = (prefix) => {
 	return `
-「 *Toin BOT* 」
+「 *كانا* 」
 
-◪ *informações*
+◪ *معلومات *
   ❏ Prefix: 「  ${prefix}  」
-  ❏ Criador : Toin
-  ❏ Como instalar o BOT: https://www.youtube.com/watch?v=4cjhlXo9aGo
+  ❏ الصانع كوروكو
+  ❏ منور ولاك
 
 ◪ *SOBRE*
   │
