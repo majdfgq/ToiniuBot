@@ -1,8 +1,7 @@
 const menuadmin = (prefix, pushname) => {
- return `oiin aqui e o menu dos admins
- _obs para o bot executar esses comandos e nescessario dar adm para o bot_
  
- ◪ *COMANDO DOS ADMINS*
+ 
+ ◪ *اوامر المشرفين*
  │
  ├─ ❏ ${prefix}opengc
  ├─ ❏ ${prefix}closegc
